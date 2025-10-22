@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Página inicial -->
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Páginas estáticas -->
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/p/servicos.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/p/quem-somos.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/p/entre-em-contato.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Postagens existentes -->
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/09/instalacao-de-tomada.html</loc>
+    <lastmod>2025-10-22T15:07:16Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/08/instalacao-e-substituicao-da-fiacao.html</loc>
+    <lastmod>2023-04-24T22:26:31Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/08/eletricista-em-salvador-ba.html</loc>
+    <lastmod>2023-04-24T22:34:32Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/08/instalacao-de-quadro-eletrico.html</loc>
+    <lastmod>2023-04-24T22:41:58Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/08/instalacao-de-pendente.html</loc>
+    <lastmod>2023-04-24T22:44:22Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/08/instalacao-de-barras-de-apoio.html</loc>
+    <lastmod>2023-04-24T22:46:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/07/instalacao-de-lustre.html</loc>
+    <lastmod>2023-04-24T22:49:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/07/instalacao-e-substituicao-de-varao-para.html</loc>
+    <lastmod>2023-04-24T23:00:23Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/07/instalacao-de-luminarias-e-fita-de-led.html</loc>
+    <lastmod>2023-04-24T23:02:48Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/07/instalacao-e-substituicao-de-ventilador.html</loc>
+    <lastmod>2023-04-24T23:07:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eletricistaprofissionalemsalvador.blogspot.com/2018/07/instalacao-e-substituicao-de-chuveiro.html</loc>
+    <lastmod>2023-04-24T23:14:17Z</lastmod>
+  </url>
+
+</urlset>
